@@ -1,3 +1,6 @@
 [submodule "to-do-list-android"]
 	path = to-do-list-android
 	url = https://github.com/FelipeFerraz4/to-do-list-android.git
+[submodule "secret-number-android"]
+	path = secret-number-android
+	url = https://github.com/FelipeFerraz4/secret-number-android.git
