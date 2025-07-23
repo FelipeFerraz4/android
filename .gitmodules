@@ -1,0 +1,3 @@
+[submodule "to-do-list-android"]
+	path = to-do-list-android
+	url = https://github.com/FelipeFerraz4/to-do-list-android.git
